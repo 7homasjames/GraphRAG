@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+neo4j
+openai
+requests
+pdfplumber
+streamlit
+pydantic
+python-dotenv
+numpy
+pandas
